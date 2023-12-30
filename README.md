@@ -7,7 +7,7 @@ I have projects in C++, Java, Phyton, HTML, CSS and JavaScript.
 I think you might be interested in my profile.
 
 
-  <img align="center" alt="GIF" src="https://heaad.ru/wp-content/uploads/2022/11/CxrL.gif" width="900" height="400"/>
+  <img align="center" alt="GIF" src="https://heaad.ru/wp-content/uploads/2022/11/CxrL.gif" width="1100" height="500"/>
   
 - 💼 any freelance work? do reach, [email](mailto:abhishek.naidu@cred.club) :)
 - 💬 ask me about anything, i am happy to help;
