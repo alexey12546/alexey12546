@@ -1,6 +1,8 @@
-hi, i'm [Abhishek Naidu](https://abhishknads.me/), a passionate self-taught full stack web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+Hi, my name is Alexei and I am studying to be a programmer at BSU. At the moment I study java and in the future I plan to become a full-stack programmer.
 
-i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+I have written a few business card sites, so I can design and layout a site, I am studying java-spring for the backend. 
+
+I think you might be interested in my profile.
 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
