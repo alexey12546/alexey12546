@@ -9,6 +9,6 @@ I think you might be interested in my profile🌌.
 <img align="center" alt="GIF" src="https://heaad.ru/wp-content/uploads/2022/11/CxrL.gif" width="1100" height="500"/>
 
 SOCIAL
-<p height="24">SOCIAL</p>
+<code><p height="24">SOCIAL</p></code>
 
 
