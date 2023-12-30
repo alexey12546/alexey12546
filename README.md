@@ -2,6 +2,8 @@ Hi, my name is Alexei and I am studying to be a programmer at BSU. At the moment
 
 I have written a few business card sites, so I can design and layout a site, I am studying java-spring for the backend. 
 
+I have projects in C++, Java, Phyton, HTML, CSS and JavaScript.
+
 I think you might be interested in my profile.
 
 
