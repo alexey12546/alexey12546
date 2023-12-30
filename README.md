@@ -10,4 +10,4 @@ I think you might be interested in my profile🌌.</h3>
 
 <h1>SOCIAL</h1>
 <a href="https://www.instagram.com/alexey12546/?hl=ru"><img src="https://png.pngtree.com/png-vector/20230225/ourmid/pngtree-three-dimensional-instagram-icon-png-image_6618437.png" height="50"></a>
-<a href="https://t.me/a1ex12546"><img src="https://static.vecteezy.com/system/resources/previews/018/930/479/original/telegram-logo-telegram-icon-transparent-free-png.png" height="70"></a>
+<a href="https://t.me/a1ex12546"><img src="https://static.vecteezy.com/system/resources/previews/018/930/479/original/telegram-logo-telegram-icon-transparent-free-png.png" width="70" height="70"></a>
