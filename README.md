@@ -9,5 +9,5 @@ I think you might be interested in my profile🌌.</h3>
 <img align="center" alt="GIF" src="https://heaad.ru/wp-content/uploads/2022/11/CxrL.gif" width="1100" height="500"/>
 
 <h1>SOCIAL</h1>
-<a href="https://www.instagram.com/alexey12546/?hl=ru"><img src="https://png.pngtree.com/png-vector/20230225/ourmid/pngtree-three-dimensional-instagram-icon-png-image_6618437.png"></a>
+<a href="https://www.instagram.com/alexey12546/?hl=ru"><img src="https://png.pngtree.com/png-vector/20230225/ourmid/pngtree-three-dimensional-instagram-icon-png-image_6618437.png" width="20"></a>
 
