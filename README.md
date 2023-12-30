@@ -1,4 +1,4 @@
-<p height="18">Hi👋, my name is Alexey and I am studying to be a programmer at BSU👨‍🎓. At the moment I study java and in the future I plan to become a full-stack programmer👨‍💻.
+<p height="20">Hi👋, my name is Alexey and I am studying to be a programmer at BSU👨‍🎓. At the moment I study java and in the future I plan to become a full-stack programmer👨‍💻.
 
 I have written a few business card sites, so I can design and layout a site, I am studying java-spring for the backend. 
 
