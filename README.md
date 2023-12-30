@@ -9,4 +9,4 @@ I think you might be interested in my profile🌌.
 
 <img align="center" alt="GIF" src="https://heaad.ru/wp-content/uploads/2022/11/CxrL.gif" width="1100" height="500"/>
 
-<p>SOCIAL</p>
+<h1>SOCIAL</h1>
