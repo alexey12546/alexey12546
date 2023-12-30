@@ -11,4 +11,4 @@ I think you might be interested in my profile🌌.</h3>
 <h1>SOCIAL</h1>
 <a href="https://www.instagram.com/alexey12546/?hl=ru"><img src="https://png.pngtree.com/png-vector/20230225/ourmid/pngtree-three-dimensional-instagram-icon-png-image_6618437.png" height="50"></a>
 <a href="https://t.me/a1ex12546"><img src="https://static.wikia.nocookie.net/google/images/5/5c/20170705004455.png/revision/latest/thumbnail/width/360/height/360?cb=20170704191428" width="50" height="50"></a>
-<a href="https://discordapp.com/users/463428104279425034/"><img src="https://i.pinimg.com/originals/2c/e0/79/2ce079260cd5708deeb3d117e589881c.png" width="50" height="50"></a>
+<a href="https://discordapp.com/users/463428104279425034/"><img src="https://cdn.icon-icons.com/icons2/3169/PNG/512/discord_logo_icon_193568.png" width="50" height="50"></a>
